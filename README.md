@@ -32,7 +32,7 @@ eficiencia de procesos y automatización de flujos de trabajo.
 
 ## Trayectoria
 
-- **Karstec** — Analista Funcional SQL, Optimización de Procesos de Datos *(ene. 2025 – actualidad)*
+- **Karstec** — Analista Funcional SQL, Optimización de Procesos de Datos *(jul. 2025 – actualidad)*
 - **Universidad Siglo 21** — Reporting Analyst · Business Analyst *(2024 – 2025)*
 - **Universidad Siglo 21** — Auxiliar de Persistencia Académica *(2022 – 2024)*
 
